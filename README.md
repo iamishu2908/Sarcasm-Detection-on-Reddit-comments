@@ -3,7 +3,7 @@
 
 This project is all about detecting sarcasm in Reddit comments—a tricky but interesting challenge! 
 
-We started by building a model using a Bi-Directional LSTM, which managed to detect sarcasm with about 85% accuracy. To make it even better, we introduced BERT, which boosted the model's performance by 70%, especially in recognizing sarcasm in political and darker-themed comments.
+I started by building a model using a Bi-Directional LSTM, which managed to detect sarcasm with about 85% accuracy. To make it even better, I introduced BERT, which boosted the model's performance by 70%, especially in recognizing sarcasm in political and darker-themed comments.
 
 ## Tech Stack
 
